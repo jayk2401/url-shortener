@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+.env
+
+# React
+frontend/build/
+
+# Logs
+*.log
+
+# OS/IDE stuff
+.DS_Store
+.vscode/
+
+# Docker
+**/.dockerignore
